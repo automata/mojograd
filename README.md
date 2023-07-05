@@ -32,6 +32,9 @@ c.show("c")
 
 # Changelog
 
+- 2023.07.04
+  - Ported Neuron, Layer and MLP
+  - Back to use yakupc55's List (need `register_passable` data struct)
 - 2023.06.30
   - Finally got it working! Only missing pow ops and review it
 
